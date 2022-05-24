@@ -74,8 +74,8 @@ education:
           - Second Class Upper
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
       company: Startup Hubs, San Francisco
+      time: 2015 - Present
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -89,19 +89,8 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
       company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+      time: 2014 - 2015
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -111,7 +100,7 @@ experiences:
           - Bullet point
           - Bullet point
 publications:
-    title: Online foot Print
+    title: Online footPrint
     intro: |
       I have been posting blog post and youtube videos on a wide variety of things since 2018 and it is a very interesting thing for me.
 
