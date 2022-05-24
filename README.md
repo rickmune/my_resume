@@ -1,8 +1,8 @@
-# I am B Liyanage Asanka
-## Undergraduate at SLIIT
-## Full Stack Developer
+# I am Patrick M. Munene
 
-https://blasanka.github.io/my_resume/
+## Android Developer
+
+https://rickmune.github.io/my_resume/
 
 ## This is my online resume design using a Jekyll template, Following are from orginal cv template readme:
 
