@@ -1,7 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output. 
 #
-
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -72,6 +71,18 @@ education:
         Graduated
         
           - Second Class Upper
+
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Mentorship, collabration and delivery are the overarching themes of my role.
+            - Recruiting, mentoring, and performance management and review for a team of talented android and iOS developers.
+            - Led the architectural redesign of the Equity Mobile Application to streamline the UI and improve performance. The project involved working managing a cross-functional team of business owner architects, designs, developers, and QA.
+            - Played a central role in the redesign of our service lay to micro-service architecture for better performance and resilience.
+            - Setup the DevOps process for the mobile teams (Android and iOS)
+            - I play the evangelist role for clean code in the development team.
 
 # experiences:
 #     - role: Lead Developer
