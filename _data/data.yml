@@ -33,7 +33,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Expert
+        level: Professional
 
     hobies:
       - item: Stackoverflow
@@ -72,49 +72,44 @@ education:
         Graduated
         
           - Second Class Upper
-
 experiences:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
-        Mentorship, collabration and delivery are the overarching themes of my role.
-#            - Recruiting, mentoring, and performance management and review for a team of talented android and iOS developers.
-#            - Led the architectural redesign of the Equity Mobile Application to streamline the UI and improve performance. The project involved working managing a cross-functional team of business owner architects, designs, developers, and QA.
-#            - Played a central role in the redesign of our service lay to micro-service architecture for better performance and resilience.
-#            - Setup the DevOps process for the mobile teams (Android and iOS)
-#            - I play the evangelist role for clean code in the development team.
-
-#           - Bullet point
-#           - Bullet point 
-
-#     - role: Senior Software Engineer
-#       time: 2014 - 2015
-#       company: Google, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-
-#           - Bullet point
-#           - Bullet point
-
-#     - role: UI Developer
-#       time: 2012 - 2014
-#       company: Amazon, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-
-#           - Bullet point
-#           - Bullet point
-
-
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 publications:
     title: Online foot Print
     intro: |
