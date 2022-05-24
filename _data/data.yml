@@ -86,7 +86,7 @@ experiences:
             Setup the DevOps process for the mobile teams (Android and iOS)
             Played the evangelist role for clean code in the bank.
             
-      - role: Senior Android Enginer
+      - role: Senior Android Engineer
         company: Equity Bank Limited, Nairobi, Kenya
         time: 2014 - 2018 
         details: |
@@ -96,6 +96,7 @@ experiences:
             Practiced clean code and used design patterns to develop readable, maintainable, and scalable mobile applications.
             Work in cross-functional teams to define, design, plan, and implement new products and features.
             Improving code quality through code reviews, unit tests, integration tests, and applying TDD
+            
 #projects:
 #    title: Projects
 #    intro: >
@@ -111,6 +112,7 @@ publications:
     title: Online footprint
     intro: |
       I have been posting blog post and youtube videos on a wide variety of things since 2018 and it is a very interesting thing for me.
+      
 #    subintro1: Videos
     
 #    subintro2: Blog
